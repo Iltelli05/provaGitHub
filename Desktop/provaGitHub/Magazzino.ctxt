@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Magazzino
+comment1.params=importo\ quantita\ descrizione
+comment1.target=void\ nuovoIngresso(double,\ int,\ java.lang.String)
+comment2.params=importo\ quantita\ descrizione
+comment2.target=void\ nuovaUscita(double,\ int,\ java.lang.String)
+numComments=3
